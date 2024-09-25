@@ -1,0 +1,23 @@
+table {
+    width: 70%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    font-family: "Comic Sans MS";
+}
+.first-row td {
+    border: 1.25px dotted steelblue;
+    font-weight: bold;
+}
+td {
+    padding: 10px;
+    border: 1.25px solid steelblue;
+    text-align: center;
+    vertical-align: bottom;
+}
+img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
